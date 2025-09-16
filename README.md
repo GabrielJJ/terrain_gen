@@ -1,4 +1,5 @@
 # Geração de Terrenos no Isaac Sim
+![gen_terrain(3)](https://github.com/user-attachments/assets/5cce27ea-5cce-460c-8a56-ee00e321a33e)
 
 ## Visão Geral
 
